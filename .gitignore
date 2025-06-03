@@ -1,3 +1,5 @@
 .vscode/
 *.exe
-random/question1
+random/*
+!random/*.cpp
+!random/*.h
